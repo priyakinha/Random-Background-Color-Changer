@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    background-color: #414141;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+#start{
+    margin-right: 50px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#stop{
+    margin-right: 50px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+}
